@@ -1,0 +1,44 @@
+.container__aboutus {
+    margin-bottom: 6em;
+}
+.container__aboutus-descricao {
+    text-align: center;
+    margin: 8em 25vw;
+}
+.aboutus-titulo {
+    color: var(--vermelho);
+    font-weight: 600;
+    margin: 3em 0;
+}
+.aboutus-titulo-descricao {
+    color: var(--preto);
+    font-size: 48px;
+    font-weight: 600;
+    margin-bottom: 1em;
+}
+.aboutus-texto {
+    font-size: 20px;
+    margin: 0 2.3vw;
+    line-height: 1.5em;
+}
+.container__aboutus-resutados {
+    display: flex;
+    justify-content: space-around;
+    gap: 5em;
+    margin: 0 8vw;
+    padding-right: 2em;
+}
+.resultados__numeros {
+    color: var(--vermelho);
+    font-size: 60px;
+    font-weight: 600;
+}
+.resultados__titulo {
+    color: var(--preto);
+    font-weight: 500;
+    font-size: 18px;
+    margin: 1em 0;
+}
+.resultados__texto {
+    line-height: 1.5em;
+}

@@ -1,0 +1,60 @@
+.container__vagas {
+    margin: 5em 3em 5em 3em;
+}
+.vagas__apresentacao {
+text-align: center;
+margin-bottom: 5em;
+    
+}
+.vagas__apresentacao-titulo {
+    font-weight: 500;
+    font-size: 14px;
+    color: var(--vermelho);
+    background: var(--background-sec);
+    border-radius: 16px;
+    margin: 2em 43.5vw ;
+    padding: .5em 0;
+}
+.vagas__apresentacao-chamada {
+    margin-bottom: 1em;
+    color: var(--preto);
+    font-size: 36px;
+    font-weight: 600;
+}
+.vagas__apresentacao-descricao {
+    margin-bottom: 4em;
+    font-size: 20px;
+}
+.vagas__apresentacao-img {
+    width: 80%;
+}
+.vagas__descricao {
+    margin: 0 24vw 5em 24vw;
+    text-align: left;
+    
+}
+
+.lista__vagas-titulo {
+    color: var(--preto);
+    font-size: 20px;
+    font-weight: 500;
+    margin: 3em 0 1.5em 0;
+}
+.lista__vagas-descricao {
+    border: 1px solid #EAECF0;
+    padding: 2em;
+    margin-bottom: 1em;
+    border-radius: 16px;
+
+}
+.descricao-titulo {
+    font-weight: 500;
+    font-size: 18px;
+    color: var(--preto);
+}
+.descricao-propriedades {
+    font-weight: 500;
+    display: flex;
+    padding: 2em 2em 0 0;
+    gap: 2em;
+}

@@ -1,0 +1,29 @@
+.container__parceiros {
+    text-align: center;
+    background: var(--background-sec);
+    margin: 0 9em 5em 9em;
+    padding: 5em;
+    border-radius: 16px;
+    
+}
+.parceiros__titulo {
+    color: var(--vermelho);
+    font-size: 14px;
+    font-weight: 600;
+    margin-bottom: 2em;
+}
+.parceiros__texto {
+    color: var(--preto);
+    font-size: 36px;
+    font-weight: 500;
+    margin-bottom: 1em;
+}
+.parceiros__nome {
+    color: var(--preto);
+    font-weight: 500;
+    margin: 2em 0 1em 0;
+}
+.parceiros__cargo {
+    font-size: 14px;
+}
+
